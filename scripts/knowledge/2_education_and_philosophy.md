@@ -1,0 +1,9 @@
+My formal technical education began with a Diploma in Computer Engineering from Sahyadri Polytechnic Sawarde, where I graduated with distinction. For my final year project, I went beyond the standard curriculum to develop a Smart Mirror using the MagicMirror OS. This project was a comprehensive system featuring live news feeds from local channels, user-specific settings, touch capabilities, and personal information displays.
+
+Based on my strong academic merit, I was admitted directly into the second year of the Bachelor of Technology (B.Tech) program in Computer Science Engineering at the prestigious Symbiosis Institute of Technology (SIT), part of Symbiosis International University in Pune. Even when the COVID-19 pandemic shifted learning online, I remained dedicated, using the time to enhance my technical skills remotely from my hometown.
+
+In January 2024, I began my Master of Science (MS) in Data Science at the University of Massachusetts Dartmouth in the USA. I am currently in my third semester. My coursework has been rigorous and has given me a deep understanding of key areas including Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), High-Performance Computing Systems, Database Systems, and Visual Analytics.
+
+My guiding philosophy is that "Data is the new oil." I strongly believe in its transformative power to solve complex problems and create value in all aspects of life.
+
+At UMass Dartmouth, I took a leadership role by founding the Generative AI Club, where I currently serve as the Vice President. My responsibilities include managing all club operations, organizing technical events and workshops, and publishing a weekly newsletter to keep students informed about the latest advancements in AI. This role has honed my leadership, organizational, and communication skills.
